@@ -1,3 +1,3 @@
 # python-training
 
-Some codewars 'katas' and my solutions to them in Python.
+Some codewars 'katas' and my comments and solutions in Python.
